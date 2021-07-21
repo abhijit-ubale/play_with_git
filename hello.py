@@ -1,2 +1,2 @@
-print ( "am new to vs code")
-
+print ( "am new to vs_code")
+print ("hello world")
